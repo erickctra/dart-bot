@@ -11,6 +11,9 @@ dependencies:
   path: ^1.8.0
   nyxx: ^3.2.4
   nyxx_lavalink: ^3.0.1
+  nyxx_pagination: ^2.1.0
+  nyxx_interactions: ^3.3.0
+  youtube_explode_dart: ^1.10.9+1
 
 dev_dependencies:
   lints: ^1.0.0
