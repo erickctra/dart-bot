@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/nyxx__lavalink-pub.dev-blue">
 </div>
 
-### 🛠 Tecnologias
+### 🛠 Technologies
 
 The following tools were used in building the project:
 
